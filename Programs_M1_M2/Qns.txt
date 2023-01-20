@@ -1,0 +1,100 @@
+1) WAP to find and print sum of 2 numbers
+2) WAP to swap two varaibles using third variable 
+3) WAP to swap two variable without using third variable
+4) WAP for Simple Interest 
+5) WAP to check + or - 
+6) WAP to find avg of three numbers 
+7) WAP to find roots of quadratic eqn 
+8) WAP to find sqrt 
+9) WAP to take three sides, tell type and area of triangle 
+10) WAP to check Leap Year
+11) WAP to check Palindrome (While)
+12) WAP to enter 5 marks, take avg, print division 
+13) WAP to check Armstrong number 
+14) WAP to reverse digits of a number
+15) WAP to check if prime or not
+16) WAP to add all digits of a number
+17) WAP to print all even and all odd numbers within a limit 
+18) WAP to print sum of all even and all odd numbers
+19) WAP to check Palindrome (For)
+
+20) Wap to print Half Pyramid 
+*
+* *
+* * *
+* * * *
+* * * * *
+
+21) WAP to print Floyd's triangle
+1 
+2 3 
+4 5 6
+7 8 9 10
+
+22) WAP to print Half Pyramid Of numbers
+1 
+1 2 
+1 2 3
+1 2 3 4
+1 2 3 4 5 
+
+23) WAP to print full pyramid of * 
+    * 
+   ***
+  *****
+ *******
+
+24) WAP to print Pascals triangle
+    1 
+   1 1 
+  1 2 1 
+ 1 3 3 1
+1 4 6  4 1
+
+25) WAP to print 
+    1  
+  2 3 2 
+ 3 4 5 4 3 
+4 5 6 7 6 5 4
+
+26) WAP to print 
+        * 
+     *  * 
+    * * *
+  * * * *
+* * * * *
+ 
+27) WAP to print inverted half Pyramid
+
+* * * * *
+* * * *
+* * * 
+* *
+*
+
+28) WAP to print inverted half pyramid of numbers 
+
+1 2 3 4 5
+1 2 3 4 
+1 2 3
+1 2
+1
+
+
+
+
+#include<stdio.h> 
+#include<conio.h> 
+
+void main()
+{
+    
+    //clrscr(); 
+    
+
+    //getch(); 
+}
+
+/* OUTPUT 
+
+*/
